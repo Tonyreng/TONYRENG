@@ -50,8 +50,8 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
      <img align="center"
-      src="https://skillicons.dev/icons?i=js,html,css,wasm"
-      alt="anthony rengifo" height="100" width="100" />
+      src="https://skillicons.dev/icons?i=react,js,py,flask,html,css,bootstrap,materialui,git,github,mysql,nestjs,postgres,postman"
+      alt="anthony rengifo" height="300" width="300" />
 </p>
 
 <br>
