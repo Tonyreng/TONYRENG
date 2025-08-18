@@ -57,6 +57,15 @@
 <br>
 
 <h3>Statistical Data :-</h3>
+<div>
+    <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=Tonyreng&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact"
+    alt="Tonyreng" 
+    bg_color=#808080/>
+    <img src="https://github-readme-stats.vercel.app/api?username=Tonyreng&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&repo=convoychat"
+    alt="Tonyreng" />
+    
+</div>
 <p display=flex><img 
     src="https://github-readme-stats.vercel.app/api/top-langs?username=Tonyreng&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact"
     alt="Tonyreng" 
