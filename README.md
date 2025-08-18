@@ -42,14 +42,16 @@
     
   <a href="https://linkedin.com/in/anthony-rengifo" target="blank"><img align="center"
       src="https://skillicons.dev/icons?i=linkedin"
-      alt="adam pithewan" height="30" width="40" /></a>
+      alt="anthony rengifo" height="30" width="40" /></a>
 </p>
 
 <br>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
-    [![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+     <img align="center"
+      src="https://skillicons.dev/icons?i=js,html,css,wasm"
+      alt="anthony rengifo" height="30" width="40" />
 </p>
 
 <br>
