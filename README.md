@@ -57,24 +57,13 @@
 <br>
 
 <h3>Statistical Data :-</h3>
-<div display=flex>
-    <img 
+<p><img 
     src="https://github-readme-stats.vercel.app/api/top-langs?username=Tonyreng&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact"
     alt="Tonyreng" 
-    bg_color=#808080/>
-    <img src="https://github-readme-stats.vercel.app/api?username=Tonyreng&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&repo=convoychat"
-    alt="Tonyreng" />
-    
-</div>
-<p display=flex><img 
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=Tonyreng&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact"
-    alt="Tonyreng" 
-    bg_color=#808080/>
+    bg_color=#808080/></p>
 
-<img src="https://github-readme-stats.vercel.app/api?username=Tonyreng&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&repo=convoychat"
+<p><img src="https://github-readme-stats.vercel.app/api?username=Tonyreng&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&repo=convoychat"
     alt="Tonyreng" /></p>
-<br>
-<br>
 <br>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Tonyreng&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" alt="Tonyreng" /></p>
 <p align="left"> <a href="https://twitter.com/" target="blank"><img
