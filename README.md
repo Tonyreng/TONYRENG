@@ -60,9 +60,9 @@
 <p><img align="left"
     src="https://github-readme-stats.vercel.app/api/top-langs?username=Tonyreng&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact"
     alt="Tonyreng" 
-    bg_color=#808080/>
+    bg_color=#808080/></p>
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=Tonyreng&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&repo=convoychat"
+<p><img align="right" src="https://github-readme-stats.vercel.app/api?username=Tonyreng&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&repo=convoychat"
     alt="Tonyreng" /></p>
 <br>
 <br>
@@ -71,4 +71,4 @@
 <p align="left"> <a href="https://twitter.com/" target="blank"><img
       src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-[Adam-pw](https://github.com/Adam-pw)
+&nbsp;[Adam-pw](https://github.com/Adam-pw)
