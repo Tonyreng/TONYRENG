@@ -51,7 +51,7 @@
 <p align="left"> 
      <img align="center"
       src="https://skillicons.dev/icons?i=js,html,css,wasm"
-      alt="anthony rengifo" height="45" width="45" />
+      alt="anthony rengifo" height="100" width="100" />
 </p>
 
 <br>
