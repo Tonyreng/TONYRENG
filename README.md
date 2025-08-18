@@ -42,7 +42,7 @@
     
   <a href="https://linkedin.com/in/anthony-rengifo" target="blank"><img align="center"
       src="https://skillicons.dev/icons?i=linkedin"
-      alt="anthony rengifo" height="50" width="50" /></a>
+      alt="anthony rengifo" height="40" width="40" /></a>
 </p>
 
 <br>
