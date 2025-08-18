@@ -62,7 +62,7 @@
     alt="Tonyreng" 
     bg_color=#808080/>
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=Tonyreng&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&repo=convoychat"
+<img src="https://github-readme-stats.vercel.app/api?username=Tonyreng&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&repo=convoychat"
     alt="Tonyreng" /></p>
 <br>
 <br>
