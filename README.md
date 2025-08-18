@@ -33,7 +33,7 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
      <img align="center"
-      src="https://skillicons.dev/icons?i=react,js,py,flask,html,css,bootstrap,materialui,git,github,mysql,nestjs,postgres,postman&perline=7"
+      src="https://skillicons.dev/icons?i=react,js,py,flask,html,css,bootstrap,materialui,git,github,mysql,nestjs,postgres,postman&perline=5"
       alt="anthony rengifo" height="400" width="400" />
 </p>
 
