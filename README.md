@@ -51,7 +51,7 @@
 <p align="left"> 
      <img align="center"
       src="https://skillicons.dev/icons?i=react,js,py,flask,html,css,bootstrap,materialui,git,github,mysql,nestjs,postgres,postman&perline=7"
-      alt="anthony rengifo" height="600" width="600" />
+      alt="anthony rengifo" height="500" width="500" />
 </p>
 
 <br>
