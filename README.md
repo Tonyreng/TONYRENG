@@ -34,7 +34,7 @@
 <p align="left"> 
      <img align="center"
       src="https://skillicons.dev/icons?i=react,js,py,flask,html,css,bootstrap,materialui,git,github,mysql,nestjs,postgres,postman&perline=5"
-      alt="anthony rengifo" height="400" width="400" />
+      alt="anthony rengifo" height="300" width="300" />
 </p>
 
 <br>
